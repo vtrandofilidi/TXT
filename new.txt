@@ -1,0 +1,6 @@
+name - Viktoriya
+last name - Trandofilidi
+age - 25
+location - Minsk
+specialization - QA Engineer
+desired salary - 500 $
