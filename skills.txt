@@ -1,0 +1,4 @@
+terminal - Git Bash, Git Hub"
+JS - functions, cycles, methods
+API - Postman
+
