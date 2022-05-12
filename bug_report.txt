@@ -1,1 +1,9 @@
-
+summary - UI: The list of vacation options is not displayed on the mobile version of the site
+preconditions - Go to the website https://medtravelbelarus.com/otdyh/
+description:
+    steps to reproduce - 1. Switch Screen Layout on Galaxy S5
+    actual result - The list of vacation options is not displayed on the mobile version of the site
+    expected result - Expected result: The list of vacation options is displayed on the mobile version of the site
+severity - Minor
+priority - Medium
+environment - Galaxy S5, Google Chrome 90.0.4430.93
